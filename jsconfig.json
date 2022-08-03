@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "src",
+    "paths": {
+      "pages/*": ["pages/*"],
+      "containers/*": ["containers/*"],
+      "components/*": ["components/*"],
+      "shared/*": ["shared/*"],
+      "config/*": ["config/*"],
+      "utils/*": ["utils/*"],
+      "store/*": ["store/*"],
+      "routes/*": ["routes/*"]
+    }
+  }
+}
